@@ -1,4 +1,4 @@
-# StoryApp
+# Story App
 
 web app based on MERN stack,
 
